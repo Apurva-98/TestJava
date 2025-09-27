@@ -6,7 +6,7 @@ public class table9ByPrintf {
     public static void main(String[] args) {
         int table = 9;
        System.out.printf("%d*1=%d",table,table*1); //9
-        System.out.printf("%d*1=%d",table,table*2); //9
+        System.out.printf("%d*2=%d",table,table*2); //9
         System.out.printf("%d*1=%d",table,table*3); //9
         System.out.printf("%d*1=%d",table,table*4); //9
         System.out.printf("%d*1=%d",table,table*5); //9
